@@ -7,5 +7,6 @@ function draw() {
   
   textAlign(CENTER);
   fill(0);
-  text("Valeria Ulloa", 200, 200)
+  text("Valeria Ulloa", 200, 200);
+  ellipse(50,50,50,50);
 }
